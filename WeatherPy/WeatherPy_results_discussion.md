@@ -1,17 +1,17 @@
 # WeatherPy Discussion
 
-The WeatherPy challenge collected weather observation data from around the world.  The following obersvations were drawn from the data I collected (WeatherPy_20210420_data.html) and the sample data (WeatherPy_with_sample_data.html) provided in the course assignment.
+The WeatherPy challenge collected weather observation data from around the world.  The following obersvations were drawn from the data I collected (WeatherPy_20210422_results.html) and the sample data (WeatherPy_with_sample_data.html) provided in the course assignment.
 
-## Observation 1 - WeatherPy_20210420_data.html
+## Observation 1 - WeatherPy_20210422_data.html
 
-I hypothesized that I would see a Maximum Temperature gradient from equatorial to polar latitudes because temperature is strongly influenced by solar irradiance.  As a result temperature will generally be correlated with Latitude, except for times of year where the solar irradiance is more equally distributed (Fall and Spring).  
+I hypothesized that I would see a Maximum Temperature gradient from equatorial to polar latitudes because temperature is strongly influenced by solar irradiance.  As a result temperature will generally be correlated with Latitude.  
 
-My final API query was run at ~2:30pm on 4/20/2021. The resulting dataset showed negligible correlations between Latitude and a variety of weather observations.  I believe this is due to the timing of the data collection in the spring time in mid afternoon.  
+My final API query was run at ~4pm on 4/22/2021. The resulting dataset showed good correlations between Latitude and Maximum Temperature. This affirms my hypothesis.
 
 
 ## Observation 2 - WeatherPy_with_sample_data.html
 
-The cities.csv data provided in the course assignment showed a measurable Max Temperature gradient. The data was sampled one month later in the calendar year and supports my hypothesis that there would be a gradient in Maximum Temperature.
+The cities.csv data provided in the course assignment also shows a measurable Max Temperature gradient. The regression analysis shows that this data is slightly less correlated but also affirms my hypothesis.
 
 ## Observation 3 - Both datasets
 
