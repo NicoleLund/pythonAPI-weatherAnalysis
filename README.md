@@ -1,4 +1,4 @@
-# python-api-challenge
+# pythonAPI-weatherAnalysis
 
 UofA Data Analytics Bootcamp Homework Assignment 06-Python-APIs
 
