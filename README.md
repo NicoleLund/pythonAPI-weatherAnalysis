@@ -6,6 +6,8 @@ UofA Data Analytics Bootcamp Homework Assignment 06-Python-APIs
 
 Retrieve and analyze the current weather at locations around the world. Then determine which cities have the best vacation weather and display on a Google Map with a hotel name to start your vacation planning process.
 
+### Analysis Results Website
+<a href="https://nicolelund.github.io/webDesign-weatherAnalysis/index.html" target="_blank">https://nicolelund.github.io/webDesign-weatherAnalysis/index.html</a>
 
 ### Folder Descriptions
 * "assignment_source_files" contains the original assignment details posted on the course GitLab site.
@@ -23,3 +25,8 @@ Retrieve and analyze the current weather at locations around the world. Then det
     * api_keys.py: Generic api key storage file.
     * input_data: The archived weather data file provided in the original homework assignment files.
     * VacationPy_results: Screen captures of the resulting notebook and figures.
+    
+### Additional Resources
+The analysis results webpage source code can be viewed at 
+
+<a href="https://github.com/NicoleLund/webDesign-weatherAnalysis.git" target="_blank">https://github.com/NicoleLund/webDesign-weatherAnalysis.git</a>
